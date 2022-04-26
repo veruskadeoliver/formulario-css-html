@@ -3,3 +3,21 @@
     margin: 0;
     padding: 0;
 }
+
+/* Elementos com o ID "titulo" */
+#titulo {
+    font-family: sans-serif;
+    color: #0b4161;
+    margin-left: 7%;
+} 
+
+/* Elementos com o ID "subtitulo" */
+#subtitulo {
+    font-family: sans-serif;
+    color: #0b4161;
+    margin-left: 10%;
+} 
+
+#check{
+    display: inline-block;
+}
