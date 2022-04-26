@@ -21,3 +21,8 @@
 #check{
     display: inline-block;
 }
+
+/* Elementos de tag <fieldset>*/
+fieldset {
+    border: 0;
+}
