@@ -26,3 +26,22 @@
 fieldset {
     border: 0;
 }
+
+/* Elemento de tag <body> */
+body{
+    background-color: #ffffff;
+    font-family: sans-serif;
+    font-size: 1em;
+    color: #3a86b3;
+    margin-left: 36%;
+    margin-top: 2%;
+    justify-content: center;
+}
+
+/* Elementos de tags <body>, <input>, <Select>, <textarea> e <button> */
+input, select, textarea, button {
+    font-family: sans-serif;
+    font-size: 1em;
+    color: #3a86b3;
+    border-radius: 5px;
+}
